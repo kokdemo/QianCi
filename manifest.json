@@ -3,7 +3,6 @@
     "version": "0.0.1",
     "manifest_version": 2,
     "description": "让中文MarkDown写作流畅无比",
-//  "options_page": "options.html",
     "icons": {
         "48": "icon.png"
     },
